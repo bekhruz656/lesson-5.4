@@ -1,0 +1,14 @@
+body{
+    background: black;
+}
+
+h1{
+    color: white;
+    font-family: Roboto;
+    font-weight: 900;
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 300px;
+}
